@@ -25,7 +25,6 @@
 	"homepage": "https://github.com/al3xback/fmentor-nft-karma-jasmine#readme",
 	"devDependencies": {
 		"autoprefixer": "^10.4.16",
-		"jasmine": "^5.1.0",
 		"karma": "^6.4.2",
 		"karma-chrome-launcher": "^3.2.0",
 		"karma-jasmine": "^5.1.0",

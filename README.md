@@ -23,7 +23,6 @@ Users should be able to:
 - Karma
 - Karma-jasmine
 - Karma-chrome-launcher
-- Jasmine
 - Mobile-first workflow
 
 ## Author
